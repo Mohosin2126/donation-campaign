@@ -27,7 +27,7 @@ const DonDetails = ({ category }) => {
         <img src={Picture} className="w-full " alt="" /> 
         <div className="bg-black bg-opacity-80 text-white h-16 w-full absolute bottom-0 lg:bottom-0 lg:h-32"> 
           <button className="btn  ml-4 w-24 lg:w-36 mt-2 lg:mt-12" style={{ backgroundColor: Text_button_bg ,}} onClick={handleDonate}> 
-            Donate: {Price}
+            Donate {Price}
           </button>
         </div>
       </div>
