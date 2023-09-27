@@ -1,4 +1,4 @@
-- theree features 
+- three features 
 
 - On the "Home" tab, users can browse several categories of items available for donation.
 
