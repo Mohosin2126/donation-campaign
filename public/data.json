@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "Picture": "https://i.ibb.co/YdNph9w/Rectangle-4288.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#0052FF33",
+        "Card_bg": "#0052FF26",
+        "Text_button_bg": "#0052FF",
+        "Description": "Providing access to clean and safe drinking water is vital for children's health and well-being. Our project focuses on ensuring that children have access to clean water, reducing the risk of waterborne diseases, and promoting a healthier future.",
+        "Price": "$199.99"
+        
+    },
+    {
+        "id": 2,
+        "Picture": "https://i.ibb.co/PzC8fLR/Rectangle-4281.png",
+        "Title": "Good Education",
+        "Category": "Education",
+        "Category_bg": "#FF444A26",
+        "Card_bg": "#FF444A26",
+        "Text_button_bg": "#FF4433",
+        "Description": "Ensuring quality education for all is our mission. We are committed to providing access to good education, empowering individuals with knowledge and skills for a brighter future. Join us in our journey towards a more educated and empowered society.",
+        "Price": "$69.99" 
+    },
+    {
+        "id": 3,
+        "Picture": "https://i.ibb.co/19hxMXr/Health.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Category_bg": "#79C23F33",
+        "Card_bg": "#79C23F26",
+        "Text_button_bg": "#79C23F",
+        "Description":"We're collecting used clothing to make a difference. Join our clothing drive to help those in need. Your donations will provide warmth, comfort, and dignity to individuals facing hardships. Together, we can make a positive impact through the power of clothing." ,
+        "Price": "$79.99"
+    },
+    {
+      "id": 8,
+        "Picture": "https://i.ibb.co/GQGqys9/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#F8714733",
+        "Card_bg": "#F8714726",
+        "Text_button_bg": "#F87147",
+        "Description":
+        "Our goal is to make better food accessible to everyone. We believe that access to nutritious and affordable food is a fundamental right. Join us in our efforts to improve food security and promote healthier, happier lives for all." ,
+        "Price": "$69.99"  
+    },
+    {
+        "id": 4,
+        "Picture": "https://i.ibb.co/GQGqys9/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#F8714733",
+        "Card_bg": "#F8714726",
+        "Text_button_bg": "#F87147",
+        "Description":
+        "Our goal is to make better food accessible to everyone. We believe that access to nutritious and affordable food is a fundamental right. Join us in our efforts to improve food security and promote healthier, happier lives for all." ,
+        "Price": "$29.99"
+    },
+    {
+        "id": 7,
+        "Picture": "https://i.ibb.co/19hxMXr/Health.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Category_bg": "#79C23F33",
+        "Card_bg": "#79C23F26",
+        "Text_button_bg": "#79C23F",
+        "Description":"We're collecting used clothing to make a difference. Join our clothing drive to help those in need. Your donations will provide warmth, comfort, and dignity to individuals facing hardships. Together, we can make a positive impact through the power of clothing." ,
+        "Price": "$59.99"
+    },
+    {
+        "id": 6,
+        "Picture": "https://i.ibb.co/PzC8fLR/Rectangle-4281.png",
+        "Title": "Good Education",
+        "Category": "Education",
+        "Category_bg": "#FF444A26",
+        "Card_bg": "#FF444A26",
+        "Text_button_bg": "#FF4433",
+        "Description": "Ensuring quality education for all is our mission. We are committed to providing access to good education, empowering individuals with knowledge and skills for a brighter future. Join us in our journey towards a more educated and empowered society.",
+        "Price": "$69.99"
+    },
+    {
+        "id": 5,
+        "Picture": "https://i.ibb.co/YdNph9w/Rectangle-4288.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#0052FF33",
+        "Card_bg": "#0052FF26",
+        "Text_button_bg": "#0052FF",
+        "Description": "Providing access to clean and safe drinking water is vital for children's health and well-being. Our project focuses on ensuring that children have access to clean water, reducing the risk of waterborne diseases, and promoting a healthier future.",
+        "Price": "$149.99" 
+    },
+    {
+        "id": 9,
+        "Picture": "https://i.ibb.co/YdNph9w/Rectangle-4288.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#0052FF33",
+        "Card_bg": "#0052FF26",
+        "Text_button_bg": "#0052FF",
+        "Description": "Providing access to clean and safe drinking water is vital for children's health and well-being. Our project focuses on ensuring that children have access to clean water, reducing the risk of waterborne diseases, and promoting a healthier future.",
+        "Price": "$179.99"
+    },
+    {
+        "id": 10,
+        "Picture": "https://i.ibb.co/PzC8fLR/Rectangle-4281.png",
+        "Title": "Good Education",
+        "Category": "Education",
+        "Category_bg": "#FF444A26",
+        "Card_bg": "#FF444A26",
+        "Text_button_bg": "#FF4433",
+        "Description": "Ensuring quality education for all is our mission. We are committed to providing access to good education, empowering individuals with knowledge and skills for a brighter future. Join us in our journey towards a more educated and empowered society.",
+        "Price": "$69.99"
+    },
+    {
+        "id": 11,
+        "Picture": "https://i.ibb.co/19hxMXr/Health.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Category_bg": "#79C23F33",
+        "Card_bg": "#79C23F26",
+        "Text_button_bg": "#79C23F",
+        "Description":"We're collecting used clothing to make a difference. Join our clothing drive to help those in need. Your donations will provide warmth, comfort, and dignity to individuals facing hardships. Together, we can make a positive impact through the power of clothing." ,
+        "Price": "$99.99"
+    },
+    {
+        "id": 12,
+        "Picture": "https://i.ibb.co/GQGqys9/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#F8714733",
+        "Card_bg": "#F8714726",
+        "Text_button_bg": "#F87147",
+        "Description":
+        "Our goal is to make better food accessible to everyone. We believe that access to nutritious and affordable food is a fundamental right. Join us in our efforts to improve food security and promote healthier, happier lives for all." ,
+        "Price": "$49.99"
+    }
+]
